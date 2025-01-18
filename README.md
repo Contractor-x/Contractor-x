@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Contractor-x
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on cybersecurity/web development projects
-- 📫 How to reach me on Gmail @ dada4ash 
+- 👀 I’m interested in Coding and Coding alone.
+- 🌱 I’m currently learning Java python
+- 💞️ I’m looking to collaborate on cybersecurity /web dev projects.
+- 📫 How to reach me on Gmail @ dada4ash
 - 😄 Young programmer
-- ⚡ Fun fact: i havea boring life
+- ⚡ Fun fact: i have a boring life
 
 <!---
 Contractor-x/Contractor-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
