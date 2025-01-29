@@ -6,6 +6,7 @@
 - 😄 Young programmer majoring in Software Engineering
 - ⚡ Fun fact: i have a boring life...
 - I believe that no one is every truely safe. Thank the shadowbrokers for revealing this.. (ANT CATALOG)
+- Huge Snowden , Mr Robot Fan
 
 <!---
 Contractor-x/Contractor-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
