@@ -5,7 +5,7 @@
 - 📫 How to reach me on Gmail= dada4ash@gmail.com
 - 😄 Young programmer Majoring in Software Engineering
 - ⚡ Fun fact: i have a boring life...
-- I believe that no one is ever truely safe. Thank the shadowbrokers for revealing this.. (ANT CATALOG)
+- No one is ever truely safe. Thank the shadowbrokers for revealing this.. (ANT CATALOG)
 - Huge Snowden , Mr Robot Fan
 
 <!---
