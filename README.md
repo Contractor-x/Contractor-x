@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, C, C++, HTML5, CSS
 - 💞️ I’m looking to collaborate on cybersecurity / Web development projects or normal projects.
 - 📫 How to reach me on Gmail= dada4ash@gmail.com
-- 😄 Young Programmer majoring in Software Engineering (Junior Year)
+- 😄 Young Programmer majoring in Software Engineering (Junior Year....)
 # The laws of Computing doesnt apply to me.. IM LIMITLESS...
   
 <!---
