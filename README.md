@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Collins
 - 👀 I’m very interested in Coding and Coding alone.!!!
 - 🌱 I’m currently learning Python, C, C++, HTML5, CSS
-- 💞️ I’m looking to collaborate on Cybersecurity / Web development projects or normal projects.
+- 💞️ I’m looking to collaborate on cybersecurity / Web development projects or normal projects.
 - 📫 How to reach me on Gmail= dada4ash@gmail.com
 - 😄 Young Programmer majoring in Software Engineering (Junior Year)
 - ⚡ Fun fact:
