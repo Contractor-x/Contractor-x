@@ -1,52 +1,94 @@
-<h1 align="center">⚡ On The Face of The Earth... My Enemies are Countless... My Equal? NONE!!! ⚡</h1>
+<h1 align="center">🚀 On The Face of The Earth... My Enemies are Countless... My Equal? NONE!!! ⚡</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Limitless-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Coding-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding-Limitless-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Fortified-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trading-Strategic-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-Relentless-red?style=for-the-badge" />
 </p>
 
 ---
 
-### 👨‍💻 About Me  
+## 🧠 About Me
 
-- 🚀 **Hi, I’m Collins!**  
-- 🔥 **Coding is my passion—nothing else matters!**  
-- 🎯 **Currently mastering:**  
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-- ⚡ **Looking to collaborate on:** Cybersecurity & Web Development projects.  
-- 🏆 **Junior Year Software Engineering Student.**  
+👋 Hey, I’m **Collins**, a software engineer, cybersecurity specialist, trader, and researcher. I thrive on logic, algorithms, and breaking through the limits of what’s possible. Whether it's **writing code**, **breaking security protocols**, **analyzing market trends**, or **researching cutting-edge technologies**, I bring the same relentless energy and precision to every field I dive into.
+
+🚀 **My philosophy?**  
+_"The rules of computing don’t apply to me… I’m LIMITLESS."_  
+
+🎯 **My goal?**  
+To push the boundaries of **code, cybersecurity, and finance**, building solutions that others wouldn’t dare to imagine.
 
 ---
 
-### 🚀 Tech Stack  
+## 💻 Tech Stack & Expertise
+
+### 🔥 **Programming Languages**
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+</p>
+
+### ⚡ **Web Development**
+<p align="center">
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+</p>
+
+### 🔐 **Cybersecurity & Ethical Hacking**
+- **Penetration Testing** – Finding and fixing security vulnerabilities before attackers do.  
+- **Network Security** – Defending systems against network-based threats.  
+- **Cryptography** – Securing communications with encryption algorithms.  
+- **Digital Forensics** – Tracing cyber attacks and gathering digital evidence.  
+
+### 📈 **Trading & Finance**
+- **Algorithmic Trading** – Developing bots that predict and exploit market trends.  
+- **Technical Analysis** – Reading chart patterns to forecast price movements.  
+- **Risk Management** – Keeping the odds in my favor while trading.  
+
+### 🧪 **Research & Development**
+- **Machine Learning** – Training AI to learn and make decisions.  
+- **Blockchain & Smart Contracts** – Exploring the future of decentralized finance.  
+- **Quantum Computing** – Investigating the next generation of computing power.  
+
+---
+
+## 📌 **Projects & Repositories**
+
+I build projects across multiple domains, including **AI, cybersecurity, trading algorithms, web development, and more**.  
+Check out my repositories here: **[Contractor-x’s GitHub Repos](https://github.com/Contractor-x?tab=repositories)**
+
+🚀 **Highlighted Projects:**
+- **CyberSecSuite** – A full-stack cybersecurity toolkit for penetration testers.  
+- **AlgoTraderX** – A high-frequency trading bot optimized for crypto markets.  
+- **ZeroTrace** – An anonymous browsing and data encryption suite.  
+- **QuantumCalc** – A research-based quantum computing calculator.  
+
+---
+
+## 📊 **GitHub Stats & Activity**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Contractor-x&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Contractor-x&theme=radical" alt="GitHub Streaks"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contractor-x&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Contact Me  
-
-<p align="center">
-  <a href="mailto:dada4ash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## 🌎 **Connect with Me**
+📩 **Gmail:** [dada4ash@gmail.com](mailto:dada4ash@gmail.com)  
+🐦 **Twitter/X:** [@ContractorX](https://twitter.com/ContractorX)  
+💼 **LinkedIn:** [Collins' Profile](https://linkedin.com/in/yourprofile)  
+🎮 **Discord:** `ContractorX#1234`  
 
 ---
 
-<h2 align="center">⚡ The laws of computing don’t apply to me... I'm LIMITLESS! ⚡</h2>
-
-
-<!---
-Contractor-x/Contractor-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **“The rules of computing don’t apply to me… I’m LIMITLESS.”**  
