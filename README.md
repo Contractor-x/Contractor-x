@@ -22,6 +22,7 @@ _"The rules of computing don’t apply to me… I’m LIMITLESS."_
 To push the boundaries of **code, cybersecurity, and finance**, building solutions that others wouldn’t dare to imagine an implement.
 
 ---
+<a href="https://imgbox.com/ZPnWgSJh" target="_blank"><img src="https://thumbs2.imgbox.com/33/6f/ZPnWgSJh_t.gif" alt="image host"/></a>
 
 ## 💻 Tech Stack & Expertise
 
