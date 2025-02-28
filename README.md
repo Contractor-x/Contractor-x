@@ -84,9 +84,9 @@ Check out my repositories here: **[Contractor-x’s GitHub Repos](https://github
 ## 📊 **GitHub Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Contractor-x&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Contractor-x&theme=radical" alt="GitHub Streaks"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contractor-x&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Contractor-x&show_icons=true&theme=hacker" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Contractor-x&theme=matrix" alt="GitHub Streaks"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contractor-x&layout=compact&theme=hacker" alt="Top Languages" />
 </p>
 
 ---
