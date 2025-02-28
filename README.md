@@ -11,13 +11,13 @@
 
 ## 🧠 About Me
 
-👋 Hey, I’m **Collins**, a software engineer, cybersecurity specialist, trader, and researcher. I thrive on logic, algorithms, and breaking through the limits of what’s possible. Whether it's **writing code**, **breaking security protocols**, **analyzing market trends**, or **researching cutting-edge technologies**, I bring the same relentless energy and precision to every field I dive into.
+👋 Hey, I’m **Collins**, a software engineer, cybersecurity specialist, trader, and researcher. I thrive on logic, researching, and breaking through the limits of what’s possible. Whether it's **writing code**, **breaking security protocols**, **analyzing market trends**, or **researching cutting-edge technologies**, I bring the same relentless energy and precision to every field I dive into.
 
 🚀 **My philosophy?**  
 _"The rules of computing don’t apply to me… I’m LIMITLESS."_  
 
 🎯 **My goal?**  
-To push the boundaries of **code, cybersecurity, and finance**, building solutions that others wouldn’t dare to imagine.
+To push the boundaries of **code, cybersecurity, and finance**, building solutions that others wouldn’t dare to imagine an implement.
 
 ---
 
@@ -54,7 +54,7 @@ To push the boundaries of **code, cybersecurity, and finance**, building solutio
 - **Risk Management** – Keeping the odds in my favor while trading.  
 
 ### 🧪 **Research & Development**
-- **Machine Learning** – Training AI to learn and make decisions.  
+- **Machine Learning** – Using AI to learn and make decisions.  
 - **Blockchain & Smart Contracts** – Exploring the future of decentralized finance.  
 - **Quantum Computing** – Investigating the next generation of computing power.  
 
@@ -66,10 +66,10 @@ I build projects across multiple domains, including **AI, cybersecurity, trading
 Check out my repositories here: **[Contractor-x’s GitHub Repos](https://github.com/Contractor-x?tab=repositories)**
 
 🚀 **Highlighted Projects:**
-- **CyberSecSuite** – A full-stack cybersecurity toolkit for penetration testers.  
-- **AlgoTraderX** – A high-frequency trading bot optimized for crypto markets.  
-- **ZeroTrace** – An anonymous browsing and data encryption suite.  
-- **QuantumCalc** – A research-based quantum computing calculator.  
+- **Telegram-X-Forex-Bot** – A Bot whch reads signals from a group and places a trade on behalf of the user.  
+- **Zero-Error-Transfer-System** – A high frequency program which uses the Hamming Program to enable no loss of data during transfer.  
+- **Simplex-Algorithm-C** – An Algorithm which solves Simplex Algorithm written in C++.  
+- **My-Journey-in-Python-programming-Language** – A step by step guide on how i intend to learn Python and its projects.  
 
 ---
 
