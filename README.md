@@ -91,7 +91,7 @@ Check out my repositories here: **[Contractor-x’s GitHub Repos](https://github
 📩 **Gmail:** [dada4ash@gmail.com](mailto:dada4ash@gmail.com)  
 🐦 **Twitter/X:** [@ContractorX](https://twitter.com/ContractorX)  
 💼 **LinkedIn:** [Collins' Profile](https://linkedin.com/in/yourprofile)  
-🎮 **Discord:** `ContractorX#1234`  
+🎮 **Discord:** `x_contractor_x`  
 
 ---
 
