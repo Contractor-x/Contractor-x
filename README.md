@@ -10,9 +10,6 @@
 ---
 
 ## 🧠 About Me
-<p align="center">
-  <img src="https://thumbs2.imgbox.com/00/5f/EW2J0IAX_t.gif" alt="image host"/></a>
-</p>
 
 
 👋 Hey, I’m **Collins**, a software engineer, cybersecurity specialist, trader, and researcher. I thrive on logic, researching, and breaking through the limits of what’s possible. Whether it's **writing code**, **breaking security protocols**, **analyzing market trends**, or **researching cutting-edge technologies**, I bring the same relentless energy and precision to every field I dive into.
