@@ -18,7 +18,7 @@
 _"The rules of computing don’t apply to me… I’m LIMITLESS."_  
 
 🎯 **My goal?**  
-To push the boundaries of **code, cybersecurity, and finance**, building solutions that others wouldn’t dare to imagine an implement.
+To push the boundaries of **coding, cybersecurity, and finance**, building solutions that others wouldn’t dare to imagine.
 
 ---
 
