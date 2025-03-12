@@ -11,14 +11,13 @@
 
 ## 🧠 About Me
 
+👋 Hey, I’m **Collins**, a **software engineer, cybersecurity specialist, trader, and researcher**. I don’t just follow the rules—I **rewrite them**. I break limits, redefine possibilities, and take on the digital world like no other. Whether it’s **writing bulletproof code**, **fortifying systems against cyber threats**, **analyzing market shifts**, or **diving deep into research**, I operate on a level most can only dream of.
 
-👋 Hey, I’m **Collins**, a software engineer, cybersecurity specialist, trader, and researcher. I thrive on logic, researching, and breaking through the limits of what’s possible. Whether it's **writing code**, **testing security protocols**, **analyzing market trends**, or **researching cutting-edge technologies**, I bring the same relentless energy to every field I dive into.
+🚀 **Philosophy?**  
+_"The rules of computing don’t apply to me… I’m LIMITLESS."_
 
-🚀 **My philosophy?**  
-_"The rules of computing don’t apply to me… I’m LIMITLESS."_  
-
-🎯 **My goal?**  
-To push the boundaries of **coding, cybersecurity, and finance**, building solutions that others wouldn’t dare to imagine.
+🎯 **Mission?**  
+To innovate, disrupt, and build solutions that shape the future of **technology, cybersecurity, and finance**. If it hasn’t been done before, I’m here to make it happen.
 
 ---
 
@@ -26,38 +25,29 @@ To push the boundaries of **coding, cybersecurity, and finance**, building solut
 
 ### 🔥 **Programming Languages**
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css"/>
 </p>
 
 ### ⚡ **Web Development**
 <p align="center">
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask"/>
 </p>
 
 ### 🔐 **Cybersecurity & Ethical Hacking**
-- **Penetration Testing** – Finding and fixing security vulnerabilities before attackers do.  
-- **Network Security** – Defending systems against network-based threats.  
-- **Cryptography** – Securing communications with encryption algorithms.  
-- **Digital Forensics** – Tracing cyber attacks and gathering digital evidence.  
+- 🛡️ **Penetration Testing** – Finding and fixing security vulnerabilities before attackers do.  
+- 🔒 **Network Security** – Building unbreachable defenses against threats.  
+- 🔑 **Cryptography** – Securing communications with state-of-the-art encryption.  
+- 🕵🏽‍♂️ **Digital Forensics** – Unmasking cyber attacks and tracking digital footprints.  
 
 ### 📈 **Trading & Finance**
-- **Algorithmic Trading** – Developing bots that predict and exploit market trends.  
-- **Technical Analysis** – Reading chart patterns to forecast price movements.  
-- **Risk Management** – Keeping the odds in my favor while trading.  
+- 🤖 **Algorithmic Trading** – Developing high-speed bots that dominate the market.  
+- 📊 **Technical Analysis** – Decoding market movements and predicting trends.  
+- 💰 **Risk Management** – Keeping the odds in my favor while maximizing gains.  
 
 ### 🧪 **Research & Development**
-- **Machine Learning** – Using AI to learn and make decisions.  
-- **Blockchain & Smart Contracts** – Exploring the future of decentralized finance.  
-- **Quantum Computing** – Investigating the next generation of computing power.  
+- 🤖 **Machine Learning & AI** – Teaching computers to think and learn.  
+- ⛓ **Blockchain & Smart Contracts** – Pushing the boundaries of decentralized finance.  
+- ⚛️ **Quantum Computing** – Exploring the next frontier of computing power.  
 
 ---
 
@@ -67,29 +57,31 @@ I build projects across multiple domains, including **AI, cybersecurity, trading
 Check out my repositories here: **[Contractor-x’s GitHub Repos](https://github.com/Contractor-x?tab=repositories)**
 
 🚀 **Highlighted Projects:**
-- **Telegram-X-Forex-Bot** – A Bot whch reads signals from a group and places a trade on behalf of the user.  
-- **Zero-Error-Transfer-System** – A high frequency program which uses the Hamming Program to enable no loss of data during transfer.  
-- **Simplex-Algorithm-C** – An Algorithm which solves Simplex Algorithm written in C++.  
-- **My-Journey-in-Python-programming-Language** – A step by step guide on how i intend to learn Python and its projects.  
+- 🔥 **Telegram-X-Forex-Bot** – An AI-driven bot that reads signals from a group and executes trades with **zero lag**.  
+- ⚡ **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
+- 🚀 **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
+- 💡 **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.  
 
 ---
 
 ## 📊 **GitHub Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Contractor-x&show_icons=true&theme=hacker" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Contractor-x&show_icons=true&theme=matrix" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Contractor-x&theme=matrix" alt="GitHub Streaks"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contractor-x&layout=compact&theme=hacker" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contractor-x&layout=compact&theme=matrix" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🌎 **Connect with Me**
-📩 **Gmail:** [dada4ash@gmail.com](mailto:dada4ash@gmail.com)  
-🐦 **Twitter/X:** [@ContractorX](https://twitter.com/ContractorX)  
-💼 **LinkedIn:** [Collins' Profile](https://linkedin.com/in/yourprofile)  
-🎮 **Discord:** `x_contractor_x`  
+<p align="center">
+  <a href="mailto:dada4ash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/ContractorX"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
 
 ---
 
-🚀 **“The rules of computing don’t apply to me… I’m LIMITLESS.”**  
+🚀 **“I don’t follow trends—I set them. The digital world is my playground, and I’m here to dominate.”** 🔥
