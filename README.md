@@ -47,7 +47,7 @@ To innovate, disrupt, and build solutions that shape the future of **technology,
 ### 🧪 **Research & Development**
 - 🤖 **Machine Learning & AI** – Teaching computers to think and learn.  
 - ⛓ **Blockchain & Smart Contracts** – Pushing the boundaries of decentralized finance.  
-- ⚛️ **Quantum Computing** – Exploring the next frontier of computing power.  
+<!-- ⚛️ **Quantum Computing** – Exploring the next frontier of computing power.-->  
 
 ---
 
