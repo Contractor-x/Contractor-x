@@ -63,7 +63,7 @@ Check out my repositories here: **[Contractor-x’s GitHub Repos](https://github
 - 💡 **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.  
 
 ---
-<!--
+
 ## 📊 **GitHub Stats & Activity**
 
 <p align="center">
@@ -73,7 +73,7 @@ Check out my repositories here: **[Contractor-x’s GitHub Repos](https://github
 </p>
 
 ---
--->
+
 ## 🌎 **Connect with Me**
 <p align="center">
   <a href="mailto:dada4ash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
