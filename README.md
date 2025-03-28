@@ -90,5 +90,5 @@ Check out my repositories here: **[Contractor-x’s GitHub Repos](https://github
 
 ZtYw8tD#L!a9E2rPbV4@X5cK7FgMq%Tz
 
-⚠ Keep this key secure — it's required to decrypt the credentials.... -->
+⚠ Keep this key secure — it's required to decrypt the credentials..... -->
 
