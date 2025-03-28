@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-👋 Hey, I’m **Collins**, a **student, software engineer, cybersecurity specialist, trader, and researcher**. I break limits, redefine possibilities, and take on the digital world like no other. Whether it’s **writing bulletproof code**, **fortifying systems against cyber threats**, **analyzing market shifts**, or **diving deep into research**, I operate on a level most can only dream of.
+👋 Hey, I’m **Collins**, a **student, software engineer, cybersecurity specialist, trader, and researcher**. I break limits, redefine possibilities, and take on the digital world like no other. Whether it’s **programming**, **fortifying systems against cyber threats**, **analyzing market shifts**, or **diving deep into research**, I operate on a level most can only dream of.
 
 🚀 **Philosophy?**  
 _"The rules of computing don’t apply to me… I’m LIMITLESS."_
