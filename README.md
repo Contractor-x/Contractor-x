@@ -17,7 +17,7 @@
 _"The rules of computing don’t apply to me… I’m LIMITLESS."_
 
 🎯 **Mission?**  
-To innovate, disrupt, and build solutions that shape the future of **technology, cybersecurity, and finance**. If it hasn’t been done before, I’m here to make it happen.
+To **innovate**, and build solutions that shape the future of **technology, cybersecurity, and finance**. I’m here to make it happen.
 
 ---
 
