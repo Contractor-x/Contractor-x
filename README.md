@@ -61,7 +61,7 @@ Check out my repositories here: **[Contractor-x’s GitHub Repos](https://github
 - ⚡ **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
 - 🚀 **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
 - 💡 **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.  
-
+<!--
 ---
 
 ## 📊 **GitHub Stats & Activity**
@@ -71,7 +71,7 @@ Check out my repositories here: **[Contractor-x’s GitHub Repos](https://github
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Contractor-x&theme=matrix" alt="GitHub Streaks"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contractor-x&layout=compact&theme=matrix" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 ## 🌎 **Connect with Me**
