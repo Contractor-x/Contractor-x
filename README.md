@@ -51,11 +51,6 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 
 ---
 
-## 📌 **Projects & Repositories**
-
-I build projects across multiple domains, including **AI, cybersecurity, trading algorithms, web development, and more**.  
-Check out my repositories here: **[Contractor-x’s GitHub Repos](https://github.com/Contractor-x?tab=repositories)**
-
 🚀 **Highlighted Projects:**
 - 🔥 **Telegram-X-Forex-Bot** – An AI-driven bot that reads signals from a group and executes trades with **zero lag**.  
 - ⚡ **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
