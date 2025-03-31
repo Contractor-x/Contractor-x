@@ -56,7 +56,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 - ⚡ **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
 - 🚀 **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
 - 💡 **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.  
-<!--
+
 ---
 
 ## 📊 **GitHub Stats & Activity**
@@ -64,9 +64,9 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Contractor-x&show_icons=true&theme=matrix" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Contractor-x&theme=matrix" alt="GitHub Streaks"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contractor-x&layout=compact&theme=matrix" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contractor-x&layout=compact&theme=matrix" alt="Top Languages" /> -->
 </p>
--->
+
 ---
 
 ## 🌎 **Connect with Me**
