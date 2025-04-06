@@ -84,5 +84,5 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 
 ZtYw8tD#L!a9E2rPbV4@X5cK7FgMq%Tz
 
-⚠ Keep this key secure — it's required to decrypt the credentials...-->
+⚠ Keep this key secure — it's required to decrypt the credentials..-->
 
