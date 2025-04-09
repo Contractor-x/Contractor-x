@@ -67,7 +67,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 </p>
 -->
 
-<!--
+
 ## 🌎 **Connect with Me**
 <p align="center">
   <a href="mailto:dada4ash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -77,7 +77,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 </p>
 
 ---
--->
+
 🚀 **“The digital world is my playground, I’m here to dominate.”** 🔥
 
 <!-- AES-256 Encryption Key
