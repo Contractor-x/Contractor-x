@@ -75,7 +75,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.com/x_contractor_x"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-<!-- Hello dude wassup how far dont quit. you are unique ............ -->
+<!-- Hello dude wassup how far dont quit. you are unique ........... -->
 ---
 
 🚀 **“The digital world is my playground, I’m here to dominate.”** 🔥
