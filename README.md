@@ -55,7 +55,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 - ⚡ **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
 - 🚀 **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
 - 💡 **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.
-- ⚛️ **Expense-Tracker** - 
+- ⚛️ **Expense-Tracker** - A student-focused project that tracks expenses used by its clients.
 
 ---
 <!--
