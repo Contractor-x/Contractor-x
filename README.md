@@ -73,10 +73,10 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 <p align="center">
   <a href="mailto:dada4ash@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/Con_tractorX"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
- <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <!-- <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
   <a href="https://discord.com/x_contractor_x"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-<!-- Hello dude wassup how far dont quit. you are unique. -->
+<!-- Hello dude wassup how far dont quit. you are unique.  -->
 ---
 
 🚀 **“The digital world is my playground, I’m here to dominate.”** 🔥
