@@ -58,7 +58,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 - ⚛️ **Expense-Tracker** - A student-focused project that tracks expenses used by its clients.
 
 ---
-
+<!--
 ## 📊 **GitHub Stats & Activity**
 
 <p align="center">
@@ -67,7 +67,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contractor-x&layout=compact&theme=matrix" alt="Top Languages"/> 
 </p>
 
-
+-->
 
 ## 🌎 **Connect with Me**
 <p align="center">
@@ -77,7 +77,6 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
   <a href="https://discord.com/x_contractor_x"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 <!--   -->
----
 
 🚀 **“The digital world is my playground, I’m here to dominate.”** 🔥
 
