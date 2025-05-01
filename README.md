@@ -58,15 +58,15 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 - ⚛️ **Expense-Tracker** - A student-focused project that tracks expenses used by its clients.
 
 ---
-<!--
+
 ## 📊 **GitHub Stats & Activity**
 
 <p align="center">
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=Contractor-x&show_icons=true&theme=matrix" alt="GitHub Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=Contractor-x&show_icons=true&theme=matrix" alt="GitHub Stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Contractor-x&theme=matrix" alt="GitHub Streaks"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contractor-x&layout=compact&theme=matrix" alt="Top Languages" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contractor-x&layout=compact&theme=matrix" alt="Top Languages"/> 
 </p>
--->
+
 
 
 ## 🌎 **Connect with Me**
