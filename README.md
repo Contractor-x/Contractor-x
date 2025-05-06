@@ -1,6 +1,6 @@
 <h1 align="center"> On The Face of The Earth... My Enemies are Countless... My Equal? NONE!!! ⚡</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Coding-Limitless-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Limitless-Coding-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity-Fortified-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Trading-Strategic-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Research-Relentless-red?style=for-the-badge" />
