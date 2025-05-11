@@ -78,7 +78,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 </p>
 <!-- 11111`111111 111111 123 -->
 
-🚀 **“The digital world is my playground, I’m here to dominate.”** 🔥
+**“The digital world is my playground, I’m here to dominate.”** 🔥
 
 <!-- AES-256 Encryption Key
 
