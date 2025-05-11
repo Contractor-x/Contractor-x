@@ -20,7 +20,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 
 ---
 
-## 💻 Tech Stack & Expertise
+## Tech Stack & Expertise
 
 ### 🔥 **Programming Languages**
 <p align="center">
