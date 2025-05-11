@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me.
+## About Me.
 
 👋 Hey, I’m **Collins**, a **computer science major, software engineer, cybersecurity specialist, trader, and researcher**. I break limits, redefine possibilities, and take on the digital world like no other. Whether it’s **programming**, **fortifying systems against cyber threats**, **analyzing market shifts**, or **diving deep into research**, I operate on a level only i can dream of.
 
