@@ -33,7 +33,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 </p>
 
 ### 🔐 **Cybersecurity & Ethical Hacking**
-- 🛡️ **Penetration Testing** – Finding and fixing security vulnerabilities before attackers do.  
+-  **Penetration Testing** – Finding and fixing security vulnerabilities before attackers do.  
 - 🔒 **Network Security** – Building unbreachable defenses against threats.  
 - 🔑 **Cryptography** – Securing communications with state-of-the-art encryption.  
 <!-- - 🕵🏽‍♂️ **Digital Forensics** – Unmasking cyber attacks and tracking digital footprints. -->  
