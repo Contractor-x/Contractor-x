@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Limitless-Coding-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fortified-Cybersecurity-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Strategic-Trading-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Research-Relentless-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Relentless-Research-red?style=for-the-badge" />
 </p>
 
 ---
