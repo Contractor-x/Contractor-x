@@ -41,7 +41,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 ### 📈 **Trading & Finance**
 -  **Algorithmic Trading** – Developing high-speed bots that dominate the market.  
 -  **Technical Analysis** – Decoding market movements and predicting trends.  
-- 💰 **Risk Management** – Keeping the odds in my favor while maximizing gains.  
+-  **Risk Management** – Keeping the odds in my favor while maximizing gains.  
 
 ### 🧪 **Research & Development**
 - 🤖 **Machine Learning & AI** – Teaching computers to think and learn.  
