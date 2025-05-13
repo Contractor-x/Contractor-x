@@ -50,7 +50,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 
 ---
 
-🚀 **Highlighted Projects:**
+ **Highlighted Projects:**
 - 🔥 **Telegram-X-Forex-Bot** – An AI-driven bot that reads signals from a group and executes trades with **zero lag**.  
 - ⚡ **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
 - 🚀 **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
