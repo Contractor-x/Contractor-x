@@ -44,7 +44,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 -  **Risk Management** – Keeping the odds in my favor while maximizing gains.  
 
 ### 🧪 **Research & Development**
-- 🤖 **Machine Learning & AI** – Teaching computers to think and learn.  
+-  **Machine Learning & AI** – Teaching computers to think and learn.  
 - ⛓ **Blockchain & Smart Contracts** – Pushing the boundaries of decentralized finance.  
 <!-- ⚛️ **Quantum Computing** – Exploring the next frontier of computing power.-->  
 
