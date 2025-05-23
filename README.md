@@ -10,9 +10,8 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Contractor-x/Contractor-x/blob/main/profile_banner.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Contractor-x/Contractor-x/main/profile_banner.gif" width="100%" />
 </p>
-
 
 ---
 
