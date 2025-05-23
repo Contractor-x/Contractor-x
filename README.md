@@ -48,7 +48,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 -  **Containerization** – Using Docker to deploy and manage scalable apps.  
 -  **Version Control** – Mastery over Git and collaborative workflows.
 
-### 🔐 **Cybersecurity & Ethical Hacking**
+###  **Cybersecurity & Ethical Hacking**
 -  **Penetration Testing** – Finding and fixing security vulnerabilities before attackers do.  
 -  **Network Security** – Building unbreachable defenses against threats.  
 -  **Cryptography** – Securing communications with state-of-the-art encryption.  
