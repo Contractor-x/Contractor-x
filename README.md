@@ -53,7 +53,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 -  **Network Security** – Building unbreachable defenses against threats.  
 -  **Cryptography** – Securing communications with state-of-the-art encryption.  
 
-### 📈 **Trading & Finance**
+### **Trading & Finance**
 -  **Algorithmic Trading** – Developing high-speed bots that dominate the market.  
 -  **Technical Analysis** – Decoding market movements and predicting trends.  
 -  **Risk Management** – Keeping the odds in my favor while maximizing gains.  
