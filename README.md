@@ -89,7 +89,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
   <a href="https://discord.com/x_contractor_x"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-**“The digital world is my playground, I’m here to dominate.”** 🔥
+**“The digital world is my playground, I’m here to dominate....”** 🔥
 
 <!-- AES-256 Encryption Key
 
