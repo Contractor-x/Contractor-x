@@ -58,7 +58,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 -  **Technical Analysis** – Decoding market movements and predicting trends.  
 -  **Risk Management** – Keeping the odds in my favor while maximizing gains.  
 
-### 💡 **Research & Development**
+### **Research & Development**
 -  **Machine Learning & AI** – Teaching computers to think and learn.  
 -  **Blockchain & Smart Contracts** – Pushing the boundaries of decentralized finance.  
 
