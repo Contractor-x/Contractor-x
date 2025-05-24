@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Fortified-Cybersecurity-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Strategic-Trading-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Relentless-Research-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DevOps-Included-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CrazyAss-DevOps-purple?style=for-the-badge" />
 </p>
 
 ---
