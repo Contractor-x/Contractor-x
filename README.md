@@ -44,6 +44,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
   <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode"/>
 </p>
 
+
 -  **CI/CD Pipelines** – Automating development workflows for speed and consistency.  
 -  **Containerization** – Using Docker to deploy and manage scalable apps.  
 -  **Version Control** – Mastery over Git and collaborative workflows.
