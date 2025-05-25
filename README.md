@@ -15,6 +15,14 @@
 
 ---
 
+![Cyber Banner](https://img.shields.io/badge/Welcome%20to%20the%20Cyber%20Zone-00ffe7?style=for-the-badge&logo=ghostery&logoColor=white)
+
+## People that have been rick rolled
+
+![You have been Rick Rolled Counter](https://visitor-badge.laobi.icu/badge?page_id=Contractor-x.Contractor-x&label=🕶️%20Rick%20Rolled&color=00ffe7&style=flat-square)
+
+---
+
 ## About Me.
 
 Hey 👋, I’m **Collins**, a **computer science major, Software engineer, Cybersecurity specialist, DevOps engineer, Trader, and researcher**. I break limits, redefine possibilities, and take on the digital world like no other. Whether it’s **programming**, **fortifying systems against cyber threats**, **analyzing market shifts**, or **diving deep into research**, I operate on a level only I can dream of.
