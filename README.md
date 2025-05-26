@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Fortified-Cybersecurity-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Strategic-Trading-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Relentless-Research-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CrazyAss-DevOps-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrazyAss-DevOps-purple?style=for-the-badge" />
 </p>
 
 ---
@@ -14,8 +14,6 @@
 </p>
 
 ---
-
-![Cyber Banner](https://img.shields.io/badge/Welcome%20to%20the%20Cyber%20Zone-00ffe7?style=for-the-badge&logo=ghostery&logoColor=white)
 
 ## Rick Rolled Victims...
 
