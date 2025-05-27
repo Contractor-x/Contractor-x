@@ -29,7 +29,7 @@ Hey 👋, I’m **Collins**, a **computer science major, Software engineer, Cybe
 _"The rules of computing don’t apply to me… I’m LIMITLESS."_
 
 **My Mission?**  
-To **innovate**, and build solutions that shape the future of **technology, cybersecurity, finance, and system engineering**. 
+To **innovate**, and build solutions that shape the future of **technology, cybersecurity, finance, and system engineering**.. 
 
 ---
 
