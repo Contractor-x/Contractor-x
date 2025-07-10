@@ -67,7 +67,7 @@ To **innovate**, and build solutions that shape the future of **technology, cybe
 
 ### **Research & Development**
 -  **Machine Learning & AI** – Teaching computers to think and learn.  
--  **Blockchain & Smart Contracts** – Pushing the boundaries of decentralized finance.  
+-  **Blockchain & Smart Contracts** – Pushing the boundaries of decentralized finance..  
 
 ---
 
