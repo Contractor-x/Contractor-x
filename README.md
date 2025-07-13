@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Strategic-Trading-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Relentless-Research-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CrazyAss-DevOps-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chillest-Coder-red?style=for-the-badge" />
 </p>
 
 ---
