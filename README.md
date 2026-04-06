@@ -26,7 +26,7 @@
 
  I’m **Collins**, 
  - a **Computer Science Major**,
- - Software engineer,
+ - **Software engineer**,
  - Cybersecurity specialist,
  - DevOps engineer,
  - Trader, and
