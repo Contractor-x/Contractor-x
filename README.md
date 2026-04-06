@@ -25,7 +25,7 @@
 ## About Me.
 
  I’m **Collins**, 
- - **Computer Science Major**,
+ - **Computer Science Major**: _@AIRFORCE TECHNOLOGICAL INSTITUTE_,
  - **Software engineer**,
  - **Cybersecurity FanBoy**,
  - **Jnr DevOps engineer**,
