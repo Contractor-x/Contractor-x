@@ -24,7 +24,13 @@
 
 ## About Me.
 
- I’m **Collins**, a **Computer Science Major, Software engineer, Cybersecurity specialist, DevOps engineer, Trader, and researcher**. Whether it’s **programming**, **fortifying systems against cyber threats**, **analyzing market shifts**, or **diving deep into research**, I operate on a level only I and can dream of.
+ I’m **Collins**, 
+ - a **Computer Science Major,
+ - Software engineer,
+ - Cybersecurity specialist,
+ - DevOps engineer,
+ - Trader, and
+ - researcher**. Whether it’s **programming**, **fortifying systems against cyber threats**, **analyzing market shifts**, or **diving deep into research**, I operate on a level only I and can dream of.
 
 **My Philosophy?**  
 _"The rules of computing don’t apply to me… I’m LIMITLESS."_
