@@ -29,7 +29,7 @@
  - **Software engineer**,
  - **MCP Developer**: Author of [Voli-MCP](https://github.com/Contractor-x/Voli-MCP) and [Futher-MCP](https://github.com/TECHIES-V1/futher-mcp)
  - **Cybersecurity FanBoy**🥇: [_Shadowbrokers_](https://github.com/x0rz/EQGRP_Lost_in_Translation), 🥈: _Tao_, 🥉: _Lap$u$_
- - **Jnr DevOps engineer**,
+ - **Jnr DevOps engineer**: AWS E2, Github Actions, Railway Hosting, Vercel Hosting, Render Hosting, Docker, Kubernetes.
  - **Trader**,
  - **researcher**.
  I operate on a level only I and can dream of.
