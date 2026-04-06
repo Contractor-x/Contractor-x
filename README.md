@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Relentless-Research-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CrazyAss-DevOps-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Chillest-Coder-red?style=for-the-badge" />
-</p>
+</p>w
 
 ---
 
@@ -29,7 +29,7 @@
  - **Software engineer**,
  - **Cybersecurity FanBoy**,
  - **Jnr DevOps engineer**,
- - Trader, and
+ - **Trader**, and
  - researcher**. Whether it’s **programming**, **fortifying systems against cyber threats**, **analyzing market shifts**, or **diving deep into research**, I operate on a level only I and can dream of.
 
 **My Philosophy?**  
