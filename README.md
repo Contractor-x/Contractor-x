@@ -1,4 +1,4 @@
-<h1 align="center"> On The Face of The Earth... My Enemies are Countless... My Equal??? NONE! </h1>
+<h1 align="center"> Obsession: The Burning Desire To Get What You Want... </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Limitless-Coding-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fortified-Cybersecurity-green?style=for-the-badge" />
@@ -24,7 +24,7 @@
 
 ## About Me.
 
-Hey 👋, I’m **Collins**, a **Computer Science Major, Software engineer, Cybersecurity specialist, DevOps engineer, Trader, and researcher**. Whether it’s **programming**, **fortifying systems against cyber threats**, **analyzing market shifts**, or **diving deep into research**, I operate on a level only I and can dream of.
+ I’m **Collins**, a **Computer Science Major, Software engineer, Cybersecurity specialist, DevOps engineer, Trader, and researcher**. Whether it’s **programming**, **fortifying systems against cyber threats**, **analyzing market shifts**, or **diving deep into research**, I operate on a level only I and can dream of.
 
 **My Philosophy?**  
 _"The rules of computing don’t apply to me… I’m LIMITLESS."_
