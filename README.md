@@ -27,7 +27,7 @@
  I’m **Collins**, 
  - **Computer Science Major**: _@AIRFORCE TECHNOLOGICAL INSTITUTE_,
  - **Software engineer**,
- - **MCP Developer**: Author of Voli-MCP and Futher-MCP
+ - **MCP Developer**: Author of [Voli-MCP](https://github.com/Contractor-x/Voli-MCP) and Futher-MCP
  - **Cybersecurity FanBoy**,
  - **Jnr DevOps engineer**,
  - **Trader**,
