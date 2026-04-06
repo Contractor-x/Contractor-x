@@ -24,10 +24,11 @@
 
 ## About Me.
 
- I’m **Collins**, 
+ ### I’m **Collins**, 
  - **Computer Science Major**: _@AIRFORCE TECHNOLOGICAL INSTITUTE_,
  - **Software engineer**,
  - **MCP Developer**: Author of [Voli-MCP](https://github.com/Contractor-x/Voli-MCP) and [Futher-MCP](https://github.com/TECHIES-V1/futher-mcp)
+ - **Bot Developer**: Developer of [Telegram-X-Bot](https://github.com/Ash-Cyber-and-Computer-Organization/TELEGRAM-X-FOREX-BOT), [Reddit-Leadership-Bot](https://github.com/Ash-Cyber-and-Computer-Organization/Reddit-Leaderboards-Bot) and upcoming [Sportyclaw-Autoplacer](https://github.com/Contractor-x/SportyClaw-Autoplacer).
  - **Cybersecurity FanBoy**🥇: [_Shadowbrokers_](https://github.com/x0rz/EQGRP_Lost_in_Translation), 🥈: _Tao_, 🥉: _Lap$u$_
  - **Jnr DevOps engineer**: AWS E2, Github Actions, Railway Hosting, Vercel Hosting, Render Hosting, Docker, Kubernetes.
  - **Trader**,
