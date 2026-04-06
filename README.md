@@ -18,9 +18,7 @@
 
 ## Rick Rolled Victims...
 
-<p align="center">
-[Visitors](https://visitor-badge.laobi.icu/badge?page_id=Contractor-x.Contractor-x&label=🕶️%20Rick%20Rolled&color=00ffe7&style=flat-square)
-</p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Contractor-x.Contractor-x&label=🕶️%20Rick%20Rolled&color=00ffe7&style=flat-square)
 
 ---
 
