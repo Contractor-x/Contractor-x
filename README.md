@@ -26,12 +26,12 @@
 
  ### I’m **Collins**, 
  - **Computer Science Major**: _@AIRFORCE TECHNOLOGICAL INSTITUTE_,
- - **Software engineer**,
+ - **Software engineer**,: Linux-Linux Transfer system = [0delay](https://github.com/Contractor-x/0delay), [Payment Automation System](https://github.com/Contractor-x/Payroll-Automation-System), [Mail Guide AI](https://github.com/Contractor-x/Mail-Guide-AI), [Mind Mirror](https://github.com/Contractor-x/MIND-MIRROR), e.t.c
  - **MCP Developer**: Author of [Voli-MCP](https://github.com/Contractor-x/Voli-MCP) and [Futher-MCP](https://github.com/TECHIES-V1/futher-mcp)
  - **Bot Developer**: Developer of [Telegram-X-Bot](https://github.com/Ash-Cyber-and-Computer-Organization/TELEGRAM-X-FOREX-BOT), [Reddit-Leadership-Bot](https://github.com/Ash-Cyber-and-Computer-Organization/Reddit-Leaderboards-Bot) and upcoming [Sportyclaw-Autoplacer](https://github.com/Contractor-x/SportyClaw-Autoplacer).
- - **Cybersecurity FanBoy**🥇: [_Shadowbrokers_](https://github.com/x0rz/EQGRP_Lost_in_Translation), 🥈: _Tao_, 🥉: _Lap$u$_
+ - **Cybersecurity FanBoy**🥇: [_Shadowbrokers_](https://github.com/x0rz/EQGRP_Lost_in_Translation), 🥈: _Tao_, 🥉: _Lap$u$_. Developer of [Ethical Hacking Cookbooks](https://github.com/Contractor-x/ETHICAL-HACKING-COOKBOOKS)
  - **Jnr DevOps engineer**: AWS E2, Github Actions, Railway Hosting, Vercel Hosting, Render Hosting, Docker, Kubernetes.
- - **Trader**,
+ - **Trader**: Developer of the [Hedge~Funder](https://github.com/Contractor-x/Hedge_Funder), and other high-grade financial apps
  - **researcher**.
  I operate on a level only I and can dream of.
 
