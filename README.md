@@ -17,9 +17,11 @@
 ---
 
 ## Rick Rolled Victims...
+
 <p align="center">
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Contractor-x.Contractor-x&label=🕶️%20Rick%20Rolled&color=00ffe7&style=flat-square)
+[Visitors](https://visitor-badge.laobi.icu/badge?page_id=Contractor-x.Contractor-x&label=🕶️%20Rick%20Rolled&color=00ffe7&style=flat-square)
 </p>
+
 ---
 
  ### I’m **Collins**, 
@@ -70,7 +72,9 @@ _"I’m LIMITLESS."_
 
 ### **AI**
 <p align="center">
-  <code>Claude (Anthropic)</code> &nbsp;·&nbsp; <code>Amazon Nova</code> &nbsp;·&nbsp; <code>ChatGPT</code> &nbsp;·&nbsp; <code>FastMCP</code> &nbsp;·&nbsp; <code>MCP Protocol</code> &nbsp;·&nbsp; <code>LangChain</code> &nbsp;·&nbsp; <code>Anthropic SDK</code>
+ <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20Nova-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ### **MCP ENGINEERING**
