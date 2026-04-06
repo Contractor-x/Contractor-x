@@ -28,7 +28,7 @@
  - **Computer Science Major**: _@AIRFORCE TECHNOLOGICAL INSTITUTE_,
  - **Software engineer**,
  - **MCP Developer**: Author of [Voli-MCP](https://github.com/Contractor-x/Voli-MCP) and [Futher-MCP](https://github.com/TECHIES-V1/futher-mcp)
- - **Cybersecurity FanBoy**🥇: [_Shadowbrokers_](https://github.com/x0rz/EQGRP_Lost_in_Translation),
+ - **Cybersecurity FanBoy**🥇: [_Shadowbrokers_](https://github.com/x0rz/EQGRP_Lost_in_Translation), 🥈: _Tao_, 🥉: _Lap$u$_
  - **Jnr DevOps engineer**,
  - **Trader**,
  - **researcher**.
