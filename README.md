@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Relentless-Research-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CrazyAss-DevOps-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Chillest-Coder-red?style=for-the-badge" />
-</p>w
+</p>
 
 ---
 
@@ -17,12 +17,10 @@
 ---
 
 ## Rick Rolled Victims...
-
-![You have been Rick Rolled Counter](https://visitor-badge.laobi.icu/badge?page_id=Contractor-x.Contractor-x&label=🕶️%20Rick%20Rolled&color=00ffe7&style=flat-square)
-
+<p align="center">
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Contractor-x.Contractor-x&label=🕶️%20Rick%20Rolled&color=00ffe7&style=flat-square)
+</p>
 ---
-
-## About Me.
 
  ### I’m **Collins**, 
  - **Computer Science Major**: _@AIRFORCE TECHNOLOGICAL INSTITUTE_,
@@ -32,32 +30,60 @@
  - **Cybersecurity FanBoy**🥇: [_Shadowbrokers_](https://github.com/x0rz/EQGRP_Lost_in_Translation), 🥈: _Tao_, 🥉: _Lap$u$_. Developer of [Ethical Hacking Cookbooks](https://github.com/Contractor-x/ETHICAL-HACKING-COOKBOOKS)
  - **Jnr DevOps engineer**: AWS E2, Github Actions, Railway Hosting, Vercel Hosting, Render Hosting, Docker, Kubernetes.
  - **Trader**: Developer of the [Hedge~Funder](https://github.com/Contractor-x/Hedge_Funder), and other high-grade financial apps
- - **researcher**.
- I operate on a level only I and can dream of.
+ - **researcher**
+   
+ I always aim operate on a level only I and can dream of.
 
-**My Philosophy?**  
-_"The rules of computing don’t apply to me… I’m LIMITLESS."_
-
-**My Mission?**  
-To **innovate**, and build solutions that shape the future of **technology, cybersecurity, finance, and system engineering**...
+**Philosophy?**  
+_"I’m LIMITLESS."_
 
 ---
 
 ## Tech Stack & Expertise
-
-### 🔥 **Programming Languages**
+### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,go,rust,html,css"/>
 </p>
 
-### ⚡ **Web Development**
+### **Backend & Web**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express"/>
 </p>
 
-### 🛠 **DevOps & System Tools**
+### **DevOps & Infrastructure**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode"/>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,bash,git"/>
+</p>
+
+###  **Databases & Storage**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,mysql,sqlite"/>
+</p>
+
+### **Monitoring & Automation**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
+</p>
+<p align="center">
+  <code>N8N</code> &nbsp;·&nbsp; <code>LangChain</code> &nbsp;·&nbsp; <code>Zapier</code>
+</p>
+
+### **AI**
+<p align="center">
+  <code>Claude (Anthropic)</code> &nbsp;·&nbsp; <code>Amazon Nova</code> &nbsp;·&nbsp; <code>ChatGPT</code> &nbsp;·&nbsp; <code>FastMCP</code> &nbsp;·&nbsp; <code>MCP Protocol</code> &nbsp;·&nbsp; <code>LangChain</code> &nbsp;·&nbsp; <code>Anthropic SDK</code>
+</p>
+
+### **MCP ENGINEERING**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python"/>
+</p>
+<p align="center">
+  <code>FastMCP</code> &nbsp;·&nbsp; <code>MCP Protocol</code> &nbsp;·&nbsp; <code>Claude API</code> &nbsp;·&nbsp; <code>Anthropic SDK</code>
+</p>
+
+### **Tools & Editors**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,vim,github"/>
 </p>
 
 ### **Docker and Containization**
