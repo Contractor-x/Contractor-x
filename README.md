@@ -25,7 +25,7 @@
 ## About Me.
 
  I’m **Collins**, 
- - a **Computer Science Major**,
+ - **Computer Science Major**,
  - **Software engineer**,
  - **Cybersecurity specialist**,
  - DevOps engineer,
