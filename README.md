@@ -86,7 +86,8 @@
 ---
 
 ##  **Highlighted Projects:**
-- [**Voli-MCP**](https://github.com/Contractor-x/Voli-MCP) - MCP server designed to analyze forex market volatility during different trading sessions (Asian, London, New York). It combines:
+- [**Voli-MCP**](https://github.com/Contractor-x/Voli-MCP) - MCP server designed to analyze forex market volatility during different trading sessions (Asian, London, New York).
+- [**Futher-MCP**](https://github.com/TECHIES-V1/futher-mcp) - Further-MCP merges the PDF/EPUB processing layer from ebook-mcp with the OpenLibrary discovery tools.
 -  **Telegram-X-Forex-Bot** – An AI-driven bot that reads signals from a group and executes trades with **zero lag**.  
 -  **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
 -  **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
