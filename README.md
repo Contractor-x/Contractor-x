@@ -104,7 +104,8 @@
 -  **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.
 -  [Wecoded -2025](https://github.com/Contractor-x/Wecoded-) - This is a Proposed website for the 2025 WeCoded website challenge alongside the SheCoded Challenge.
 -  [Speed Pass](https://github.com/Contractor-x/SpeedPass) - beginner-friendly Python project simulating an intelligent traffic speed monitoring system. It reads license plates (dummy data), checks for speed violations, and sends automated alerts to the HQ and law enforcement (via dummy Gmail SMTP).
--  **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
+-  **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.
+-  [ETHICAL-HACKING-COOKBOOKS](https://github.com/Contractor-x/ETHICAL-HACKING-COOKBOOKS) - This is a properly documented assembly of Ethical hacking cookbooks for Kali Linux Users 
 -  **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.
 -  **Expense-Tracker** - A student-focused project that tracks expenses used by its clients.
   
