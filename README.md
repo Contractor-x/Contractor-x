@@ -103,6 +103,7 @@
 - [Smart Shopper](https://github.com/Contractor-x/Smart-Shopper) - A full-stack agent that helps consumers find the best deals and product information by crawling and analyzing live e-commerce data. 
 -  **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.
 -  [Wecoded -2025](https://github.com/Contractor-x/Wecoded-) - This is a Proposed website for the 2025 WeCoded website challenge alongside the SheCoded Challenge.
+-  [Speed Pass](https://github.com/Contractor-x/SpeedPass) - beginner-friendly Python project simulating an intelligent traffic speed monitoring system. It reads license plates (dummy data), checks for speed violations, and sends automated alerts to the HQ and law enforcement (via dummy Gmail SMTP).
 -  **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
 -  **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.
 -  **Expense-Tracker** - A student-focused project that tracks expenses used by its clients.
