@@ -94,6 +94,8 @@
 - [Hedge~funder](https://github.com/Ash-Cyber-and-Computer-Organization/Hedge_Funder) - an automated and autonomous trading and sentiment analysis platform, combining a Telegram signal listener, news sentiment scraper, and trade executor for the MetaTrader 5 platform.
 - [Reddit-Leadership-bot](https://github.com/Ash-Cyber-and-Computer-Organization/Reddit-Leaderboards-Bot) - an automated script designed to post leaderboard rankings to multiple subreddit communities at scheduled times. The bot tracks top contributors and posts updates, enhancing engagement in Reddit communities.
 - [Autoplacer](https://github.com/Contractor-x/SportyClaw-Autoplacer) - Telegram-driven SportyBet automation suite that pulls booking codes from your chats, runs Selenium to place bets, and enforces a daily allocation cap based on a dynamic risk engine so only a limited portion of the balance is used each day.
+- [0delay](https://github.com/Contractor-x/0delay) -  Linux-based file transfer system. It provides secure, encrypted file transfers with error correction and user-friendly interfaces.
+- 
 -  **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
 -  **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
 -  **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.
