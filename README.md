@@ -91,7 +91,8 @@
 - [The Tutor](https://github.com/TECHIES-V1/TheTutor) - AI-powered course generation platform that turns any topic into a structured learning experience — powered by Amazon Nova, grounded in real textbooks via MCP.
 - [Pay-Path](https://github.com/TECHIES-V1/PayPath) - A Fintech Fnancial tracker
 - [**Telegram-X-Forex-Bot**](https://github.com/Ash-Cyber-and-Computer-Organization/TELEGRAM-X-FOREX-BOT)– A high algorithm that reads signals from a group and executes trades for its user.
-- [Hedge~funder](https://github.com/Ash-Cyber-and-Computer-Organization/Hedge_Funder) - an automated and autonomous trading and sentiment analysis platform, combining a Telegram signal listener, news sentiment scraper, and trade executor for the MetaTrader 5 platform. 
+- [Hedge~funder](https://github.com/Ash-Cyber-and-Computer-Organization/Hedge_Funder) - an automated and autonomous trading and sentiment analysis platform, combining a Telegram signal listener, news sentiment scraper, and trade executor for the MetaTrader 5 platform.
+- [Reddit-Leadership-bot](https://github.com/Ash-Cyber-and-Computer-Organization/Reddit-Leaderboards-Bot) - an automated script designed to post leaderboard rankings to multiple subreddit communities at scheduled times. The bot tracks top contributors and posts updates, enhancing engagement in Reddit communities.
 -  **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
 -  **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
 -  **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.
