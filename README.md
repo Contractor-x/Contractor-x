@@ -92,6 +92,7 @@
 - [Pay-Path](https://github.com/TECHIES-V1/PayPath) - A Fintech Fnancial tracker
 - [**Telegram-X-Forex-Bot**](https://github.com/Ash-Cyber-and-Computer-Organization/TELEGRAM-X-FOREX-BOT)– A high algorithm that reads signals from a group and executes trades for its user.
 - [Hedge~funder](https://github.com/Ash-Cyber-and-Computer-Organization/Hedge_Funder) - an automated and autonomous trading and sentiment analysis platform, combining a Telegram signal listener, news sentiment scraper, and trade executor for the MetaTrader 5 platform.
+- [Mind Mirror](https://github.com/Contractor-x/MIND-MIRROR) - MindMirror Is an AI Therapist which acts as a bridge for those who can't afford, access, or feel ready for a human therapist. 
 - [Reddit-Leadership-bot](https://github.com/Ash-Cyber-and-Computer-Organization/Reddit-Leaderboards-Bot) - an automated script designed to post leaderboard rankings to multiple subreddit communities at scheduled times. The bot tracks top contributors and posts updates, enhancing engagement in Reddit communities.
 - [Autoplacer](https://github.com/Contractor-x/SportyClaw-Autoplacer) - Telegram-driven SportyBet automation suite that pulls booking codes from your chats, runs Selenium to place bets, and enforces a daily allocation cap based on a dynamic risk engine so only a limited portion of the balance is used each day.
 - [0delay](https://github.com/Contractor-x/0delay) -  Linux-based file transfer system. It provides secure, encrypted file transfers with error correction and user-friendly interfaces.
