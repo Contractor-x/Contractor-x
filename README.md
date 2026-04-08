@@ -34,7 +34,6 @@
    
 ---
 
-## Tech Stack & Expertise
 ### **Programming Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,go,rust,html,css"/>
@@ -83,34 +82,17 @@
   <img src="https://skillicons.dev/icons?i=vscode,postman,vim,github"/>
 </p>
 
-### **Docker and Containization**
--  **CI/CD Pipelines** – Automating development workflows for speed and consistency.  
--  **Containerization** – Using Docker to deploy and manage scalable apps.  
--  **Version Control** – Mastery over Git and collaborative workflows.
-
-###  **Cybersecurity & Ethical Hacking**
--  **Penetration Testing** – Finding and fixing security vulnerabilities before attackers do.  
--  **Network Security** – Building unbreachable defenses against threats.  
--  **Cryptography** – Securing communications with state-of-the-art encryption.  
-
-### **Trading & Finance**
--  **Algorithmic Trading** – Developing high-speed bots that dominate the market.  
--  **Technical Analysis** – Decoding market movements and predicting trends.  
--  **Risk Management** – Keeping the odds in my favor while maximizing gains.  
-
-### **Research & Development**
--  **Machine Learning & AI** – Teaching computers to think and learn.  
--  **Blockchain & Smart Contracts** – Pushing the boundaries of decentralized finance..  
 
 ---
 
 ##  **Highlighted Projects:**
-- 🔥 **Telegram-X-Forex-Bot** – An AI-driven bot that reads signals from a group and executes trades with **zero lag**.  
-- ⚡ **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
-- 🚀 **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
-- 💡 **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.
-- ⚛️ **Expense-Tracker** - A student-focused project that tracks expenses used by its clients.
-  and more.
+- [**Voli-MCP**](https://github.com/Contractor-x/Voli-MCP) - MCP server designed to analyze forex market volatility during different trading sessions (Asian, London, New York). It combines:
+-  **Telegram-X-Forex-Bot** – An AI-driven bot that reads signals from a group and executes trades with **zero lag**.  
+-  **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
+-  **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
+-  **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.
+-  **Expense-Tracker** - A student-focused project that tracks expenses used by its clients.
+  
 
 ---
 
