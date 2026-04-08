@@ -98,6 +98,8 @@
 - [Payroll Automation System](https://github.com/Contractor-x/Payroll-Automation-System) - A secure, production-ready payroll automation system built with FastAPI, Streamlit, and Paystack integration. This system enables automatic salary payments, worker management, and comprehensive audit trails with bank-level security.
 - [Mail-Guide-AI](https://github.com/Contractor-x/Mail-Guide-AI) - Customer service assistant designed to streamline and automate email management for Coperate and personal Email accounts.
 - [E.L.L.A: Enhanced Locust Logic Architecture](https://github.com/Contractor-x/E.L.L.A-Enhanced-Locust-Logic-Architecture-) - a Python-based middleware system designed for high-speed, intelligent data recovery from local databases and distributed servers. Inspired by the collective intelligence and efficiency of the locust swarms, this architecture models nature’s decentralization to provide fault-tolerant, parallel, and ultra-responsive data retrieval.
+- [D.O.C](https://github.com/Contractor-x/D.O.C) - intelligent medication companion that helps patients manage their medications safely through AI-powered drug identification, age verification, dosage confirmation, and comprehensive health documentation.
+- 
 -  **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.  
 -  **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.  
 -  **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.
