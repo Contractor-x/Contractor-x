@@ -36,7 +36,7 @@
 
 ### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,go,rust,html,css"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,go,rust,html,css,typescript"/>
 </p>
 
 ### **Backend & Web**
