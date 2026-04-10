@@ -32,6 +32,7 @@
  - **Trader**: Developer of the [Hedge~Funder](https://github.com/Contractor-x/Hedge_Funder), and other high-grade financial apps
  - **Jnr Researcher**
    
+_I use Linux btw_
 ---
 
 ### **Programming Languages**
