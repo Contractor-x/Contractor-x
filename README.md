@@ -30,7 +30,7 @@
  - **Cybersecurity FanBoy**🥇: [_Shadowbrokers_](https://github.com/x0rz/EQGRP_Lost_in_Translation), 🥈: _Tao_, 🥉: _Lap$u$_. Developer of [Ethical Hacking Cookbooks](https://github.com/Contractor-x/ETHICAL-HACKING-COOKBOOKS)
  - **Jnr DevOps engineer**: AWS E2, Github Actions, Railway Hosting, Vercel Hosting, Render Hosting, Docker, Kubernetes.
  - **Trader**: Developer of the [Hedge~Funder](https://github.com/Contractor-x/Hedge_Funder), and other high-grade financial apps
- - **researcher**
+ - **Jnr Researcher**
    
 ---
 
