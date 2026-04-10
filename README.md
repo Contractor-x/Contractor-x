@@ -105,6 +105,7 @@
 -  [Wecoded -2025](https://github.com/Contractor-x/Wecoded-) - This is a Proposed website for the 2025 WeCoded website challenge alongside the SheCoded Challenge.
 -  [Speed Pass](https://github.com/Contractor-x/SpeedPass) - beginner-friendly Python project simulating an intelligent traffic speed monitoring system. It reads license plates (dummy data), checks for speed violations, and sends automated alerts to the HQ and law enforcement (via dummy Gmail SMTP).
 -  [**Simplex-Algorithm-C**](https://github.com/Contractor-x/Simplex-Algorithm-C-) – A blazing-fast C++ solution for complex optimization problems.
+-  [**Gmail Bot**](https://github.com/Contractor-x/Gmail-bot) - This is a Beginner-level program that utilizes the Google Mail API to send emails from a sender's address to a recipient's address.
 -  [ETHICAL-HACKING-COOKBOOKS](https://github.com/Contractor-x/ETHICAL-HACKING-COOKBOOKS) - This is a properly documented assembly of Ethical hacking cookbooks for Kali Linux Users 
 -  **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.
 -  **Expense-Tracker** - A student-focused project that tracks expenses used by its clients.
