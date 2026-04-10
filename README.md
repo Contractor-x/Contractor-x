@@ -89,7 +89,7 @@
 - [**Voli-MCP**](https://github.com/Contractor-x/Voli-MCP) - MCP server designed to analyze forex market volatility during different trading sessions (Asian, London, New York).
 - [**Futher-MCP**](https://github.com/TECHIES-V1/futher-mcp) - Further-MCP merges the PDF/EPUB processing layer from ebook-mcp with the OpenLibrary discovery tools.
 - [The Tutor](https://github.com/TECHIES-V1/TheTutor) - AI-powered course generation platform that turns any topic into a structured learning experience — powered by Amazon Nova, grounded in real textbooks via MCP.
-- [Pay-Path](https://github.com/TECHIES-V1/PayPath) - A Fintech Fnancial tracker
+- [**Pay-Path**](https://github.com/TECHIES-V1/PayPath) - A Fintech Fnancial tracker
 - [**Telegram-X-Forex-Bot**](https://github.com/Ash-Cyber-and-Computer-Organization/TELEGRAM-X-FOREX-BOT)– A high algorithm that reads signals from a group and executes trades for its user.
 - [Hedge~funder](https://github.com/Ash-Cyber-and-Computer-Organization/Hedge_Funder) - an automated and autonomous trading and sentiment analysis platform, combining a Telegram signal listener, news sentiment scraper, and trade executor for the MetaTrader 5 platform.
 - [Mind Mirror](https://github.com/Contractor-x/MIND-MIRROR) - MindMirror Is an AI Therapist which acts as a bridge for those who can't afford, access, or feel ready for a human therapist. 
@@ -104,7 +104,7 @@
 -  **Zero-Error-Transfer-System** – A cutting-edge Hamming-based algorithm ensuring **flawless data transmission**.
 -  [Wecoded -2025](https://github.com/Contractor-x/Wecoded-) - This is a Proposed website for the 2025 WeCoded website challenge alongside the SheCoded Challenge.
 -  [Speed Pass](https://github.com/Contractor-x/SpeedPass) - beginner-friendly Python project simulating an intelligent traffic speed monitoring system. It reads license plates (dummy data), checks for speed violations, and sends automated alerts to the HQ and law enforcement (via dummy Gmail SMTP).
--  **Simplex-Algorithm-C** – A blazing-fast C++ solution for complex optimization problems.
+-  [**Simplex-Algorithm-C**](https://github.com/Contractor-x/Simplex-Algorithm-C-) – A blazing-fast C++ solution for complex optimization problems.
 -  [ETHICAL-HACKING-COOKBOOKS](https://github.com/Contractor-x/ETHICAL-HACKING-COOKBOOKS) - This is a properly documented assembly of Ethical hacking cookbooks for Kali Linux Users 
 -  **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.
 -  **Expense-Tracker** - A student-focused project that tracks expenses used by its clients.
