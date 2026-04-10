@@ -107,7 +107,7 @@
 -  [**Simplex-Algorithm-C**](https://github.com/Contractor-x/Simplex-Algorithm-C-) – A blazing-fast C++ solution for complex optimization problems.
 -  [**Gmail Bot**](https://github.com/Contractor-x/Gmail-bot) - This is a Beginner-level program that utilizes the Google Mail API to send emails from a sender's address to a recipient's address.
 -  [**ETHICAL-HACKING-COOKBOOKS**](https://github.com/Contractor-x/ETHICAL-HACKING-COOKBOOKS) - This is a properly documented assembly of Ethical hacking cookbooks for Kali Linux Users 
--  **My-Journey-in-Python-Programming-Language** – A hands-on **deep dive** into mastering Python.
+-  [**My-Journey-in-Python-Programming-Language**](https://github.com/Contractor-x/My-Journey-in-Python-Programming-language) – Step-By-Step documentation of my Journey to learning python as an upcoming software Engineer
 -  [**Expense-Tracker**](https://github.com/Contractor-x/Expense-Tracker-) -An Expense Tracker App built with Python to Track Expenses used by the user over a delegated span of time 
   
 
