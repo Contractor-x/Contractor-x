@@ -24,7 +24,7 @@
 
  ### I’m **Collins**, 
  - **Computer Science Major**: _@ AIRFORCE TECHNOLOGICAL INSTITUTE_,
- - **CEO**: Of [_ASHIR TECH_](https://github.com/ASHIR-TECH)
+ - **CEO**: Of [_ASHIR TECH_](https://github.com/ASHIR-TECH), A Software Developing Startup.
  - **Software engineer**,: Linux-Linux Transfer system = [0delay](https://github.com/Contractor-x/0delay), [Payment Automation System](https://github.com/Contractor-x/Payroll-Automation-System), [Mail Guide AI](https://github.com/Contractor-x/Mail-Guide-AI), [Mind Mirror](https://github.com/Contractor-x/MIND-MIRROR), e.t.c
  - **MCP Developer**: Author of [Voli-MCP](https://github.com/Contractor-x/Voli-MCP) and [Futher-MCP](https://github.com/TECHIES-V1/futher-mcp)
  - **Bot Developer**: Developer of [Telegram-X-Bot](https://github.com/Ash-Cyber-and-Computer-Organization/TELEGRAM-X-FOREX-BOT), [Reddit-Leadership-Bot](https://github.com/Ash-Cyber-and-Computer-Organization/Reddit-Leaderboards-Bot) and upcoming [Sportyclaw-Autoplacer](https://github.com/Contractor-x/SportyClaw-Autoplacer).
