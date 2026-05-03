@@ -131,7 +131,7 @@ _I use Linux btw_
   <a href="https://discord.com/x_contractor_x"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-**“The digital world is my playground, I’m here to dominate.”** 🔥
+**“Everything will be alright. and if it isnt, its not the End! -Rick Sanchez”** 
 
 <!-- AES-256 Encryption Key
 
